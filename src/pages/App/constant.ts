@@ -1,0 +1,4 @@
+export const CATEGORY_LIST = 'CATEGORY_LIST';
+export const BRAND_LIST = 'BRAND_LIST';
+export const PRODUCT_CART_LIST = 'PRODUCT_CART_LIST';
+export const UPDATE_COUNT_CART = 'UPDATE_COUNT_CART';
